@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer')
 const ScreenshotTester = require('puppeteer-screenshot-tester')
 
-const path = 'file://' + __dirname + '/index.html'
+const path = 'file://' + __dirname + '/_cloned-app/index.html'
 
 jest.setTimeout(30000);
 test('renders learn react link', async () => {
