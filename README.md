@@ -19,5 +19,5 @@ In the folder with the package.json folder run `npm install`
 In the index.test folder run `jest`
 ## Expected state
 ![alt text](./expectedState.png)
-![alt text](./expectedStateMobile.png)
+![alt text](./expectedStateMobile.PNG)
 
